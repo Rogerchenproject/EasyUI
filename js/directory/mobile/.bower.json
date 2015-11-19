@@ -1,0 +1,25 @@
+{
+  "name": "mobile",
+  "main": "dist/tools/",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "src",
+    "tasks",
+    "*.md",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "keywords": [],
+  "homepage": "https://github.com/QQEDU/mobile",
+  "_release": "31b86f5db4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "31b86f5db47e05848c1cfecdf9d556a757fbcb05"
+  },
+  "_source": "git://github.com/QQEDU/mobile.git",
+  "_target": "*",
+  "_originalSource": "mobile",
+  "_direct": true
+}

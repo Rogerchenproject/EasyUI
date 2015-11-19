@@ -1,0 +1,15 @@
+{
+  "name": "phonegap",
+  "homepage": "https://github.com/phonegap/phonegap",
+  "version": "2.9.1",
+  "_release": "2.9.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.9.1",
+    "commit": "9f19b0ac22c626658e19132dfe4d063f08f765ef"
+  },
+  "_source": "git://github.com/phonegap/phonegap.git",
+  "_target": "~2.9.1",
+  "_originalSource": "phonegap",
+  "_direct": true
+}

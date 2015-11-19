@@ -1,0 +1,48 @@
+<html><head>
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=5.0,user-scalable=yes">
+    <title>cssTools 测试</title>
+    <link rel="stylesheet" href="../src/css/border-line.css">
+    <link rel="stylesheet" href="../src/css/border-arrow.css">
+    <link rel="stylesheet" href="../src/css/superscript.css">
+    <style type="text/css">
+        .item {
+            height:30px;
+            margin: 10px 5px;
+            background: red;
+
+        }
+
+        .t-bottom-line:after , .t-super-line:before{
+            background: black;
+        }
+
+
+    </style>
+<body>
+<h3>border-inline</h3>
+<hr>
+<div class="t-bottom-line t-super-line item">
+</div>
+<div class="t-bottom-line t-super-line item">
+</div>
+<div class="t-bottom-line t-super-line item">
+</div>
+<h3>border-superscript</h3>
+<hr>
+<div class="t-border-arrow">
+</div>
+
+<h3>superscript</h3>
+<hr>
+<div style="position: relative">
+    <div class=""  style="position:relative;width:300px;height:100px;background: gray; margin:5px 0">
+        <span class="t-sst-triangle">hot</span>
+    </div>
+    <div class="t-sst-radius" content="新" style="width:300px;height:100px;background: gray;margin:5px 0"></div>
+</div>
+
+
+
+</body></html>
